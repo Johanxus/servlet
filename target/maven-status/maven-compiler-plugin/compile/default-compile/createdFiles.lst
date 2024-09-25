@@ -1,0 +1,4 @@
+opinionexpress\login\resources\JakartaEE10Resource.class
+opinionexpress\login\JakartaRestConfiguration.class
+packagelogin\LoginServlet.class
+packagelogin\RegistroServlet.class
